@@ -1,6 +1,7 @@
 # Twitch-Chat-Stripper
-copy/paste twich chat, from website into TCS_Input.txt file. 
+Copy/paste recorded twitch chat(cant be live, must be recorded), from website into TCS_Input.txt file. 
 
-make sure that a time stamp is in the first line of .txt file
+MAKE SURE THAT A TIMESTAMP(e.g 1:23:45) is in the top line of the input .txt file 
 
-should output just the message to TCS-Output.txt 
+Run program, output will produce just the chat messages to TCS-Output.txt
+for easy copy/paste into other apps (such as AI voice generators) 
