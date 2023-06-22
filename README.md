@@ -1,5 +1,5 @@
 # Twitch-Chat-Stripper
-Copy/paste recorded twitch chat(cant be live, must be recorded), from website into TCS_Input.txt file. 
+
 Copy/paste recorded twitch chat(cant be live, must be recorded), from website into a .txt file (TCS_Input is provided for simplicity). 
 
 MAKE SURE THAT A TIMESTAMP (e.g 1:23:45) IS IN THE TOP LINE OF .txt FILE! 
