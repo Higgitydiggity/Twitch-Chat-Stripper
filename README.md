@@ -4,7 +4,6 @@ Copy/paste recorded twitch chat(cant be live, must be recorded), from website in
 
 MAKE SURE THAT A TIMESTAMP (e.g 1:23:45) IS IN THE TOP LINE OF .txt FILE! 
 
-Run program, output will produce just the chat messages to TCS-Output.txt
 Run program, choose file and press 'strip chat log' button.
 output will produce just the chat messages to TCS-Output.txt
 for easy copy/paste into other apps (such as AI voice generators)
